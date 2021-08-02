@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ale-Martinez-P
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Python(Flask - Django)
+- 🌱 I’m currently learning Java EE
 - 💞️ I’m looking to collaborate on basic projects to keep learning
 
 <!---
