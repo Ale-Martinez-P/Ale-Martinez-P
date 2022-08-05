@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ale-Martinez-P
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning JavaScript and Jenkins
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on basic projects to keep learning
 
 <!---
