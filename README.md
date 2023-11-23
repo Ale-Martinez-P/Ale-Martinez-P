@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ale-Martinez-P
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning JavaScript
 
 <!---
 Ale-Martinez-P/Ale-Martinez-P is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
