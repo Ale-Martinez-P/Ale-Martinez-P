@@ -1,4 +1,3 @@
-EADME
 👋 Hola, soy @Ale-Martinez-Prieto
 🎯 Apasionado por el Machine Learning y el análisis de datos.
 💻 Con experiencia en el desarrollo de software utilizando Oracle Forms/Reports 6i, Java/Spring, y actualmente explorando el mundo de la ciencia de datos.
