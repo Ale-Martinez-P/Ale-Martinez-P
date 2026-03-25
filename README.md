@@ -9,7 +9,7 @@ Me interesa construir **soluciones basadas en datos**, desde la recolección y p
 
 # 🚀 Tecnologías
 
-### Lenguajes
+## Lenguajes
 
 🐍 Python
 🗄 SQL
