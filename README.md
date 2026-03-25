@@ -37,11 +37,11 @@ Me interesa construir **soluciones basadas en datos**, desde la recolección y p
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ale-Martinez-P\&show_icons=true\&theme=tokyonight)
 
 # 🔥 Lenguajes más usados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ale-Martinez-P\&layout=compact\&theme=tokyonight)
 
 
 # 📂 Proyectos de Data Science
@@ -87,7 +87,7 @@ Convertirme en **Data Scientist / Data Engineer**, desarrollando soluciones que 
 
 ⭐ Siempre abierto a **colaboraciones y proyectos interesantes en Data Science**.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ale-Martinez-P&layout=compact&theme=tokyonight)
 
 ---
 
