@@ -1,12 +1,10 @@
 # 👋 Hola, soy Alejandro Martínez
 
-💻 **Software Developer | 📊 Data Science | 🤖 Machine Learning**
-
-💡 Transformo datos en decisiones y modelos predictivos, construyendo **soluciones end-to-end** que generan impacto real.
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Machine+Learning+%7C+Data+Engineering" />
 </p>
+
+💡 Transformo datos en decisiones y modelos predictivos, construyendo **soluciones end-to-end** que generan impacto real.
 
 ---
 
@@ -75,15 +73,13 @@ Python · SQL · Data Engineering<br>
 
 Convertirme en **Data Scientist / Data Engineer**, creando soluciones basadas en datos que **generen valor real** para empresas y proyectos reales.
 
----
-
 ## 📫 Contacto
 
-[LinkedIn](https://www.linkedin.com/in/alejandro-javier-martinez-prieto-11b363160/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/alejandro-javier-martinez-prieto-11b363160/">
+    <img src="https://img.shields.io/badge/LinkedIn-Alejandro%20Martínez-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
 
 ✨ Siempre abierto a colaboraciones en **Data Science y Machine Learning**
-
----
-
-💡 **Tip Next-Level:**
-Si quieres impresionar recruiters al instante, agrega **mini GIFs o gráficas animadas de tus modelos** en cada proyecto, como en los ejemplos arriba.
