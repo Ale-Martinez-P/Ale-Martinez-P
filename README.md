@@ -6,14 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Data+Science;Machine+Learning;Data+Engineering;Python+%7C+SQL+%7C+ML" />
 </p>
 
----
-
 💡 Apasionado por construir soluciones basadas en datos
 📊 Transformo datos en insights y modelos predictivos
 ⚙️ Desarrollo pipelines de datos eficientes
 🚀 Enfocado en proyectos reales y escalables
-
----
 
 ## ⚡ Tech Stack
 
@@ -23,8 +19,6 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=database\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
 
----
-
 ### 📊 Data Science
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
@@ -33,7 +27,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge\&logo=plotly\&logoColor=black)
 
----
 
 ### ⚙️ Data Engineering
 
@@ -42,7 +35,6 @@
 🗄 Bases de datos relacionales
 🧹 Data Cleaning & Transformation
 
----
 
 ### 🛠 Herramientas
 
@@ -50,7 +42,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter)
 
----
 
 ## 📊 GitHub Stats
 
@@ -59,7 +50,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ale-Martinez-P&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
----
 
 ## 🔥 Proyectos Destacados
 
@@ -69,7 +59,6 @@
 ✔️ Evaluación con métricas
 ✔️ Optimización de hiperparámetros
 
----
 
 ### 📊 Análisis Exploratorio (EDA)
 
@@ -77,7 +66,6 @@
 ✔️ Visualización de patrones
 ✔️ Insights accionables
 
----
 
 ### 🔄 Pipeline ETL
 
@@ -85,21 +73,17 @@
 ✔️ Integración con SQL
 ✔️ Procesamiento eficiente
 
----
-
 ## 🧠 Actualmente aprendiendo
 
 🔥 Deep Learning
 ⚡ Optimización de modelos
 📡 Data pipelines escalables
 
----
 
 ## 🎯 Objetivo
 
 Convertirme en un **Data Scientist / Data Engineer** creando soluciones de alto impacto con datos.
 
----
 
 ## 📫 Contacto
 
@@ -109,12 +93,9 @@ Convertirme en un **Data Scientist / Data Engineer** creando soluciones de alto 
   </a>
 </p>
 
----
+⚡ Filosofía
 
-## ⚡ Frase
-
-> "Without data, you're just another person with an opinion."
-
----
+“Sin datos, solo eres otra persona con una opinión.”
+— W. Edwards Deming
 
 ⭐ Abierto a colaboraciones en Data Science
