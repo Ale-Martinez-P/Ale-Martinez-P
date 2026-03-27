@@ -1,26 +1,17 @@
 # 👋 Hola, soy Alejandro Martínez
-
 <!-- BANNER -->
-
-<h1 align="center">🚀 Alejandro Martínez</h1>
 <h3 align="center">Data Scientist | Data Engineer | Machine Learning</h3>
 
 <p align="center">
-  Transformando datos en decisiones inteligentes
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Data+Science;Machine+Learning;Data+Engineering;Python+%7C+SQL+%7C+ML" />
 </p>
 
 ---
 
-## 🧠 Sobre mí
-
-Soy un Data Scientist en formación con enfoque en construir soluciones **end-to-end**:
-
-* 📊 Análisis exploratorio de datos (EDA)
-* 🤖 Modelos de Machine Learning
-* ⚙️ Pipelines de datos (ETL)
-* 📈 Optimización basada en métricas
-
-💡 Me interesa resolver problemas reales usando datos y llevar modelos desde la exploración hasta producción.
+💡 Apasionado por construir soluciones basadas en datos
+📊 Transformo datos en insights y modelos predictivos
+⚙️ Desarrollo pipelines de datos eficientes
+🚀 Enfocado en proyectos reales y escalables
 
 ---
 
@@ -28,86 +19,85 @@ Soy un Data Scientist en formación con enfoque en construir soluciones **end-to
 
 ### 🐍 Lenguajes
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,postgres" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=database\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+
+---
 
 ### 📊 Data Science
 
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>
-
-`Pandas` | `NumPy` | `Scikit-learn` | `Matplotlib`
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge\&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge\&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge\&logo=plotly\&logoColor=black)
 
 ---
 
 ### ⚙️ Data Engineering
 
-* ETL Pipelines
-* Data Cleaning
-* Data Transformation
-* Bases de datos relacionales
+🔄 ETL Pipelines
+📦 Data Processing
+🗄 Bases de datos relacionales
+🧹 Data Cleaning & Transformation
 
 ---
 
 ### 🛠 Herramientas
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter)
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ale-Martinez-P&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ale-Martinez-P&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ale-Martinez-P&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ale-Martinez-P&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
 ## 🔥 Proyectos Destacados
 
-### 🧠 Machine Learning - Predicción
+### 🤖 Modelo Predictivo
 
-📌 Modelo predictivo entrenado con Scikit-learn
-📊 Evaluación con métricas reales
-⚙️ Feature engineering y tuning
-
-👉 *(Aquí luego pondremos links reales a tus proyectos)*
+✔️ Machine Learning con Scikit-learn
+✔️ Evaluación con métricas
+✔️ Optimización de hiperparámetros
 
 ---
 
-### 📊 Análisis de Datos (EDA)
+### 📊 Análisis Exploratorio (EDA)
 
-📈 Exploración de datasets reales
-🧹 Limpieza y transformación de datos
-📉 Visualización de insights clave
+✔️ Limpieza de datos
+✔️ Visualización de patrones
+✔️ Insights accionables
 
 ---
 
 ### 🔄 Pipeline ETL
 
-⚙️ Extracción, transformación y carga automatizada
-🗄 Integración con SQL
-📦 Procesamiento de datos
+✔️ Automatización de datos
+✔️ Integración con SQL
+✔️ Procesamiento eficiente
 
 ---
 
 ## 🧠 Actualmente aprendiendo
 
-* Deep Learning
-* Arquitectura de datos
-* Optimización de modelos
-* Data pipelines escalables
+🔥 Deep Learning
+⚡ Optimización de modelos
+📡 Data pipelines escalables
 
 ---
 
-## 🎯 Objetivo Profesional
+## 🎯 Objetivo
 
-Convertirme en un **Data Scientist / Data Engineer** trabajando en proyectos de alto impacto donde los datos impulsen decisiones estratégicas.
+Convertirme en un **Data Scientist / Data Engineer** creando soluciones de alto impacto con datos.
 
 ---
 
@@ -121,12 +111,10 @@ Convertirme en un **Data Scientist / Data Engineer** trabajando en proyectos de 
 
 ---
 
-## ⚡ Filosofía
+## ⚡ Frase
 
-> “Sin datos, solo eres otra persona con una opinión.”
-> — W. Edwards Deming
+> "Without data, you're just another person with an opinion."
 
 ---
 
-⭐ Siempre abierto a colaborar en proyectos de Data Science
-
+⭐ Abierto a colaboraciones en Data Science
