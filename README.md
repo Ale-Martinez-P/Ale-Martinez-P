@@ -57,6 +57,12 @@ Python · SQL · Data Engineering<br>
 
 ---
 
+## 🔥 Lenguajes más usados
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ale-Martinez-P&layout=compact&theme=tokyonight)
+
+---
+
 ## 📊 GitHub Stats
 
 ![GitHub Profile Stats](https://ghstats.dev/api/card?username=Ale-Martinez-P&type=fire)
