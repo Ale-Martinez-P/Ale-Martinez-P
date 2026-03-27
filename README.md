@@ -20,11 +20,9 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
 </p>
-
 ---
-
+<!--
 ## 📂 Proyectos Destacados
-
 <div align="center">
 <table>
 <tr>
@@ -48,8 +46,7 @@ Python · SQL · Data Engineering<br>
 </td>
 </tr>
 </table>
-</div>
-
+</div>-->
 ---
 
 ## 🌟 Skills Destacadas
@@ -62,10 +59,7 @@ Python · SQL · Data Engineering<br>
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ale-Martinez-P&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa-rickstaa.vercel.app/api/top-langs/?username=Ale-Martinez-P&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+![GitHub Profile Stats](https://ghstats.dev/api/card?username=Ale-Martinez-P&type=fire)
 
 ---
 
