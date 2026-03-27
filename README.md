@@ -1,98 +1,132 @@
 # 👋 Hola, soy Alejandro Martínez
 
-📊 **Data Science | Data Engineering | Machine Learning**
+<!-- BANNER -->
 
-Apasionado por trabajar con **datos, modelos predictivos y pipelines de procesamiento de datos**.
-Actualmente enfocado en desarrollar proyectos de **Data Science, Machine Learning y Data Engineering**, transformando datos en información útil para la toma de decisiones.
+<h1 align="center">🚀 Alejandro Martínez</h1>
+<h3 align="center">Data Scientist | Data Engineer | Machine Learning</h3>
 
-Me interesa construir **soluciones basadas en datos**, desde la recolección y procesamiento hasta el entrenamiento de modelos de Machine Learning.
+<p align="center">
+  Transformando datos en decisiones inteligentes
+</p>
 
-# 🚀 Tecnologías
+---
 
-## Lenguajes
+## 🧠 Sobre mí
 
-🐍 Python
-🗄 SQL
-☕ Java
+Soy un Data Scientist en formación con enfoque en construir soluciones **end-to-end**:
 
-### Data Science
+* 📊 Análisis exploratorio de datos (EDA)
+* 🤖 Modelos de Machine Learning
+* ⚙️ Pipelines de datos (ETL)
+* 📈 Optimización basada en métricas
 
-* Pandas
-* NumPy
-* Scikit-learn
-* TensorFlow
-* Matplotlib
+💡 Me interesa resolver problemas reales usando datos y llevar modelos desde la exploración hasta producción.
 
-### Data Engineering
+---
 
-* ETL pipelines
-* Data cleaning
-* Data transformation
+## ⚡ Tech Stack
+
+### 🐍 Lenguajes
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,postgres" />
+</p>
+
+### 📊 Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+`Pandas` | `NumPy` | `Scikit-learn` | `Matplotlib`
+
+---
+
+### ⚙️ Data Engineering
+
+* ETL Pipelines
+* Data Cleaning
+* Data Transformation
 * Bases de datos relacionales
 
-### Herramientas
+---
 
-* Jupyter Notebook
-* Git / GitHub
+### 🛠 Herramientas
 
-# 📊 GitHub Stats
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ale-Martinez-P\&show_icons=true\&theme=tokyonight)
+---
 
-# 🔥 Lenguajes más usados
+## 📊 GitHub Analytics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ale-Martinez-P\&layout=compact\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ale-Martinez-P&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ale-Martinez-P&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
+---
 
-# 📂 Proyectos de Data Science
+## 🔥 Proyectos Destacados
 
-📊 **Análisis exploratorio de datos (EDA)**
-Exploración y visualización de datasets utilizando Pandas y Matplotlib.
+### 🧠 Machine Learning - Predicción
 
-🤖 **Modelo de predicción con Machine Learning**
-Construcción de modelos predictivos utilizando Scikit-learn.
+📌 Modelo predictivo entrenado con Scikit-learn
+📊 Evaluación con métricas reales
+⚙️ Feature engineering y tuning
 
-📉 **Modelo de clasificación**
-Clasificación de datos utilizando algoritmos de Machine Learning.
+👉 *(Aquí luego pondremos links reales a tus proyectos)*
 
+---
 
-# ⚙️ Proyectos de Data Engineering
+### 📊 Análisis de Datos (EDA)
 
-🔄 **Pipeline ETL con Python y SQL**
-Extracción, transformación y carga de datos.
+📈 Exploración de datasets reales
+🧹 Limpieza y transformación de datos
+📉 Visualización de insights clave
 
-📦 **Procesamiento de datasets grandes**
-Limpieza y transformación de datos con Pandas.
+---
 
-# 🧠 Actualmente aprendiendo
+### 🔄 Pipeline ETL
 
-* Machine Learning avanzado
-* Data pipelines
-* Optimización de modelos
+⚙️ Extracción, transformación y carga automatizada
+🗄 Integración con SQL
+📦 Procesamiento de datos
+
+---
+
+## 🧠 Actualmente aprendiendo
+
 * Deep Learning
+* Arquitectura de datos
+* Optimización de modelos
+* Data pipelines escalables
 
 ---
 
-# 🎯 Objetivo profesional
+## 🎯 Objetivo Profesional
 
-Convertirme en **Data Scientist / Data Engineer**, desarrollando soluciones que permitan aprovechar el valor de los datos.
-
----
-
-# 📫 Contacto
-
-💼 LinkedIn: [https://www.linkedin.com/in/alejandro-javier-martinez-prieto-11b363160/]
+Convertirme en un **Data Scientist / Data Engineer** trabajando en proyectos de alto impacto donde los datos impulsen decisiones estratégicas.
 
 ---
 
-⭐ Siempre abierto a **colaboraciones y proyectos interesantes en Data Science**.
+## 📫 Contacto
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ale-Martinez-P&layout=compact&theme=tokyonight)
+<p align="center">
+  <a href="https://www.linkedin.com/in/alejandro-javier-martinez-prieto-11b363160/">
+    <img src="https://img.shields.io/badge/LinkedIn-Alejandro%20Martínez-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
 
 ---
 
-## 📂 Proyectos destacados
+## ⚡ Filosofía
 
-🔹 Proyecto Machine Learning  
-🔹 Análisis de datos con Python  
-🔹 Modelo predictivo
+> “Sin datos, solo eres otra persona con una opinión.”
+> — W. Edwards Deming
+
+---
+
+⭐ Siempre abierto a colaborar en proyectos de Data Science
+
