@@ -21,7 +21,7 @@ Apasionado por trabajar con datos y construir soluciones que combinan **análisi
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ale-Martinez-P&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ale-Martinez-P&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
