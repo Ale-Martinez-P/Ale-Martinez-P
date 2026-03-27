@@ -1,69 +1,49 @@
-<h1 align="center">Alejandro Martínez</h1>
-<p align="center">
-  Data Scientist · Data Engineer · Machine Learning
-</p>
+# 👋 Hola, soy Alejandro Martínez
+
+💻 Software Developer | 📊 Data Science | 🤖 Machine Learning
+
+Apasionado por trabajar con datos y construir soluciones que combinan **análisis, ingeniería y modelos predictivos**.
 
 ---
 
-## About
+## 🚀 Tecnologías
 
-I build data-driven solutions end-to-end — from raw data to production-ready models.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=database\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 
-My work focuses on:
-
-* Designing data pipelines (ETL)
-* Building and evaluating machine learning models
-* Extracting insights from real-world datasets
-* Turning data into actionable decisions
-
----
-
-## Tech Stack
-
-**Languages**
-Python · SQL · Java
-
-**Data Science**
-Pandas · NumPy · Scikit-learn · TensorFlow · Matplotlib
-
-**Data Engineering**
-ETL pipelines · Data cleaning · Data transformation · Relational databases
-
-**Tools**
-Jupyter · Git · GitHub
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+![Scikit--learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge\&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
 
 ---
 
-## Selected Work
+## 📊 GitHub Stats
 
-**Machine Learning Model**
-Predictive model built with Scikit-learn, including feature engineering and evaluation.
-
-**Exploratory Data Analysis**
-Data cleaning, visualization, and insight extraction using Pandas and Matplotlib.
-
-**ETL Pipeline**
-Automated data pipeline integrating Python and SQL for data processing.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ale-Martinez-P\&show_icons=true\&theme=tokyonight)
 
 ---
 
-## Current Focus
+## 🔥 Lenguajes más usados
 
-* Deep Learning
-* Model optimization
-* Scalable data pipelines
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ale-Martinez-P\&layout=compact\&theme=tokyonight)
 
 ---
 
-## GitHub
+## 📂 Proyectos destacados
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ale-Martinez-P&show_icons=true&hide_border=true" height="150"/>
-</p>
+🔹 **Modelo de Machine Learning**
+Construcción y evaluación de modelos predictivos con Scikit-learn
+
+🔹 **Análisis de datos con Python**
+Exploración, limpieza y visualización de datasets
+
+🔹 **Pipeline ETL**
+Procesamiento y transformación de datos con Python y SQL
 
 ---
 
-## Contact
+## 🎯 Objetivo
 
-LinkedIn:
-https://www.linkedin.com/in/alejandro-javier-martinez-prieto-11b363160/
+Desarrollar soluciones basadas en datos como **Data Scientist / Data Engineer**, abarcando desde el procesamiento hasta la modelización.
